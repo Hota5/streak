@@ -24,5 +24,5 @@ Then scan the QR code with the Expo Go app on your phone.
 
 ## Screenshots
 
-![Home in light mode](docs/home-light.jpg)
-![Home in dark mode](docs/home-dark.jpg)
+<img src="docs/home-light.jpg" alt="Home in light mode" width="300">
+<img src="docs/home-dark.jpg" alt="Home in dark mode" width="300">
