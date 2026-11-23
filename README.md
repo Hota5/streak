@@ -22,7 +22,3 @@ Then scan the QR code with the Expo Go app on your phone.
 - [ ] Habits saved on the device
 - [ ] Login, so each account sees only its own habits
 
-## Screenshots
-
-<img src="docs/home-light.jpg" alt="Home in light mode" width="300">
-<img src="docs/home-dark.jpg" alt="Home in dark mode" width="300">
