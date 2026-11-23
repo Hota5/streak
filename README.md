@@ -14,7 +14,7 @@ Then scan the QR code with the Expo Go app on your phone.
 ## Features
 
 - [x] List of habits 
-- [ ] Habit details screen with history and streak
+- [x] Habit details screen with history and streak
 - [ ] Add and edit habits
 - [ ] Mark a habit done today
 - [ ] Today tab and Habits tab, with a modal for adding a habit
